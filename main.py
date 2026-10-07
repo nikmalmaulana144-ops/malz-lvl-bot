@@ -35,7 +35,7 @@ import CguTeam_pb2
 import CguFF_pb2
 
 # ==================== WEB DASHBOARD ====================
-from dashboard_server import bot_state, start_web_dashboard
+from Dashboard_server import bot_state, start_web_dashboard
 
 # ==================== CONFIGURATION ====================
 WEB_HOST = "0.0.0.0"
